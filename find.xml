@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.pros</mask>
       <mask>D*.java</mask>
       <mask>DA*.java</mask>
       <mask>DAO*.java</mask>
@@ -16,24 +15,25 @@
       <mask>*.prp</mask>
       <mask>*.properti</mask>
       <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
       <mask>*.a</mask>
       <mask>*.jaa</mask>
       <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
-      <mask>*.properties</mask>
       <mask>*.p</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.kava</mask>
       <mask>*.kav</mask>
       <mask>*.ka</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
