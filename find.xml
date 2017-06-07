@@ -3,38 +3,38 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*DAOImp.java</mask>
-      <mask>*.proties</mask>
-      <mask>*.proies</mask>
-      <mask>*.proes</mask>
       <mask>*.pros</mask>
       <mask>D*.java</mask>
       <mask>DA*.java</mask>
       <mask>DAO*.java</mask>
       <mask>*DAO*.java</mask>
-      <mask>*.j</mask>
       <mask>*.propertei</mask>
       <mask>*.properte</mask>
       <mask>*.prpo</mask>
       <mask>*.prp</mask>
       <mask>*.properti</mask>
-      <mask>*.jav</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
-      <mask>*.p</mask>
       <mask>*.a</mask>
       <mask>*.jaa</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.properties</mask>
+      <mask>*.p</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.kava</mask>
+      <mask>*.kav</mask>
+      <mask>*.ka</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
