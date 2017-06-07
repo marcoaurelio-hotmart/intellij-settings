@@ -15,13 +15,7 @@
       <mask>*.a</mask>
       <mask>*.jaa</mask>
       <mask>*</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
       <mask>*.pies</mask>
       <mask>*.pes</mask>
       <mask>*.ps</mask>
@@ -30,10 +24,16 @@
       <mask>*.kav</mask>
       <mask>*.ka</mask>
       <mask>*.k</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
