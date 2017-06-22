@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*.pies</mask>
-      <mask>*.pes</mask>
-      <mask>*.ps</mask>
       <mask>*.kava</mask>
       <mask>*.kav</mask>
       <mask>*.ka</mask>
@@ -20,12 +16,9 @@
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Test.java</mask>
-      <mask>*.p</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -35,6 +28,13 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.pties</mask>
+      <mask>*.pies</mask>
+      <mask>*.pes</mask>
+      <mask>*.ps</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
