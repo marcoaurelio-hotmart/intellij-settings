@@ -18,22 +18,22 @@
       <mask>*.j</mask>
       <mask>*.pr</mask>
       <mask>*.prope</mask>
-      <mask>*.properti</mask>
       <mask>*.pties</mask>
       <mask>*.pies</mask>
       <mask>*.pes</mask>
       <mask>*.ps</mask>
       <mask>*.p</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.ies</mask>
       <mask>*.es</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
