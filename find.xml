@@ -13,27 +13,27 @@
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Test.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.pr</mask>
-      <mask>*.prope</mask>
       <mask>*.pties</mask>
       <mask>*.pies</mask>
       <mask>*.pes</mask>
       <mask>*.ps</mask>
-      <mask>*.p</mask>
-      <mask>*.prop</mask>
       <mask>*.ies</mask>
       <mask>*.es</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*.properti</mask>
+      <mask>*.p</mask>
       <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
-      <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
