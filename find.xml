@@ -22,12 +22,12 @@
       <mask>*.properti</mask>
       <mask>*.jav</mask>
       <mask>*.prope</mask>
-      <mask>*.p</mask>
-      <mask>*.java</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
+      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
