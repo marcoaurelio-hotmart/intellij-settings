@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.jav</mask>
       <mask>*.erties</mask>
@@ -13,28 +13,28 @@
       <mask>*.ie</mask>
       <mask>*.ij</mask>
       <mask>*.i</mask>
-      <mask>*.prop</mask>
       <mask>*.properti</mask>
       <mask>*.pr</mask>
       <mask>*.prope</mask>
-      <mask>*.p</mask>
       <mask>*.proep</mask>
       <mask>*.proe</mask>
-      <mask>*.pro</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.roperties</mask>
       <mask>*.ja</mask>
       <mask>*.x,l</mask>
       <mask>*.x,m</mask>
       <mask>*.x,</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
