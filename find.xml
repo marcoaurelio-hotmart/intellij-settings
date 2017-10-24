@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.jpr</mask>
-      <mask>*.jp</mask>
-      <mask>*.ies</mask>
-      <mask>*.es</mask>
-      <mask>*.j</mask>
-      <mask>*.zml</mask>
-      <mask>*.zm</mask>
-      <mask>*.z</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.prp</mask>
-      <mask>*.prop</mask>
       <mask>*.properi</mask>
       <mask>*.s</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
       <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.kava</mask>
       <mask>*.kav</mask>
       <mask>*.ka</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
+      <mask>*.prop</mask>
+      <mask>*.</mask>
+      <mask>*.jkava</mask>
+      <mask>*.jkav</mask>
+      <mask>*.jka</mask>
+      <mask>*.jk</mask>
+      <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.proep</mask>
+      <mask>*.proe</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties'</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
