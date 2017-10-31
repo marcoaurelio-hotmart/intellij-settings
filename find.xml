@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properi</mask>
       <mask>*.s</mask>
@@ -31,12 +31,12 @@
       <mask>*.propertie</mask>
       <mask>*.properties'</mask>
       <mask>*.properties</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
