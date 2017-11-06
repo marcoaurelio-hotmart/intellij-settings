@@ -1,10 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://sonarqube.hotmart.com" />
-          <token>dfcbdfc9dfcedf99dfcedfcbdfc8df9cdf9adfccdf9bdf9cdf99df98df99df92df98df98dfc8df9adfccdf9ddf9bdf92dfcedf92df92dfcfdfcedf9bdf9ddf92df9edfc8df9cdf9adf92dfcedf9ddf9c</token>
+          <token>df92df98df99dfc9df9bdf99df9bdf9fdfcbdf93dfccdf9bdf98dfcedf9adf9fdf98dfc8df9edf99dfccdfc9dfcbdf98dfccdf9edfcedf99dfcbdfccdf92df98df98dfcbdf93dfccdf93dfcedf9cdfcb</token>
           <option name="name" value="sonar hotmart" />
         </SonarQubeServer>
       </list>
