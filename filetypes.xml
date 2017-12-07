@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile_client" type="Dockerfile" />
       <mapping ext="flt" type="FTL" />
       <mapping pattern="gdsl" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_client" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
