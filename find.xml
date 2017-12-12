@@ -5,10 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
-      <mask>*.jprop</mask>
-      <mask>*.jpro</mask>
       <mask>*.jpr</mask>
       <mask>*.jp</mask>
       <mask>*.proetie</mask>
@@ -37,6 +35,8 @@
       <mask>*.xml</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
