@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="java.util.List" />
-    <EXCLUDED_PACKAGE NAME="java.util.stream.Stream" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseOneLineMethods" value="false" />
-  </component>
-</application>

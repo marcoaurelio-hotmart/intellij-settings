@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Kotlin/To ordinary string literal" />
-    <ignoreAction name="Database/Run query in console" />
-  </component>
-</application>
