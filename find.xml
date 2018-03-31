@@ -5,38 +5,15 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xml" />
-    <recentFileMasks>
-      <mask>*.k</mask>
-      <mask>*.kt</mask>
-      <mask>*.a</mask>
-      <mask>*.x,l</mask>
-      <mask>*.x,</mask>
-      <mask>*.xmk</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.propert</mask>
-      <mask>*.prperties</mask>
-      <mask>*.prper</mask>
-      <mask>*.prpe</mask>
-      <mask>*.prp</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propertie</mask>
-      <mask>*.prs</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.</mask>
-      <mask>''</mask>
-      <mask>*.properties</mask>
-      <mask>*.sql</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
