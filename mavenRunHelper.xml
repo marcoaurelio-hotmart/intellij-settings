@@ -40,6 +40,15 @@
             <Goal>
               <option name="commandLine" value="failsafe:integration-test" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="mvn test -Dspring.active.profiles=staging" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test -Dspring.active.profiles=staging" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test -Dspring.profiles.active=staging" />
+            </Goal>
           </list>
         </option>
       </Goals>
