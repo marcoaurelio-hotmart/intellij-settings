@@ -13,12 +13,12 @@
         <entry key="Completions.CompletionwithTab" value="PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="PASSED" />
         <entry key="Completions.StatementCompletion" value="PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
+        <entry key="EditorBasics.Collapse" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="PASSED" />
         <entry key="EditorBasics.DeleteLine" value="PASSED" />
-        <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.Move" value="NOT_PASSED" />
-        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
+        <entry key="EditorBasics.Duplicate" value="PASSED" />
+        <entry key="EditorBasics.Move" value="PASSED" />
+        <entry key="EditorBasics.MultipleSelections" value="PASSED" />
         <entry key="EditorBasics.Selection" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="PASSED" />
         <entry key="Navigation.FileStructure" value="PASSED" />
@@ -98,6 +98,14 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="EditorBasics.Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="17701" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="EditorBasics.CommentLine">
           <value>
             <StatisticData>
@@ -117,8 +125,24 @@
         <entry key="EditorBasics.Duplicate">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1526574630825" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="1335326" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="10967" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.MultipleSelections">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="39074" />
             </StatisticData>
           </value>
         </entry>
