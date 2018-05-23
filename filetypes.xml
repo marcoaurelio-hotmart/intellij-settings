@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile.mvn" type="Dockerfile" />
+      <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
+      <mapping ext="maven" type="Native" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
