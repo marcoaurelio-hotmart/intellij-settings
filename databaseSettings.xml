@@ -1,7 +1,9 @@
 <application>
   <component name="DatabaseSettings" version="3">
+    <option name="maxLobLength" value="100204800" />
     <option name="page-size" value="1500" />
     <option name="reuse-result-tab" value="false" />
+    <option name="lob-length" value="100204800" />
     <exec-options>
       <exec-option new-tab="true" />
       <exec-option />
@@ -13,7 +15,7 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-scripts="true" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
       </parameter-patterns>
