@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.mvn" type="Dockerfile" />
       <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
       <mapping ext="maven" type="Native" />
