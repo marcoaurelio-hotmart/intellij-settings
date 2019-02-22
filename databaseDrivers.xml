@@ -102,5 +102,15 @@
       <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" dialect="Oracle" driver-class="com.informix.jdbc.IfxDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/com/ibm/informix/jdbc/4.10.8.1/jdbc-4.10.8.1.jar</url>
+      </library>
+      <code-style-scheme-name>Default</code-style-scheme-name>
+    </driver>
   </component>
 </application>
