@@ -14,12 +14,12 @@
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
     <mask>*.ftl</mask>
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
