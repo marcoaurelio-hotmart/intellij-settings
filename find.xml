@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -17,7 +17,6 @@
     <mask>*.sql</mask>
     <mask>*.ftl</mask>
     <mask>*.html</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
@@ -25,5 +24,6 @@
     <mask>*.proprie</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
   </component>
 </application>
