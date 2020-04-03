@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping ext="maven" type="Native" />
       <mapping pattern="initdb" type="PLAIN_TEXT" />
       <mapping pattern=".transifexrc" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
