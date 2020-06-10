@@ -1,9 +1,10 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="maxLobLength" value="100204800" />
     <option name="page-size" value="1500" />
     <option name="reuse-result-tab" value="false" />
     <option name="lob-length" value="100204800" />
+    <option name="warn-unsafe-query" value="false" />
     <exec-options>
       <exec-option new-tab="true" />
       <exec-option />
@@ -18,6 +19,7 @@
         <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
+        <parameter-pattern value="(?&lt;=\W|\A):(\d+|[a-zA-Z_](?:\w|\.)*)(?=\W|\z)" scope="JAVA,kotlin,Groovy" predefined=":a.b.c" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
