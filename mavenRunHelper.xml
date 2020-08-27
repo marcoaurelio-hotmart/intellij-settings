@@ -52,6 +52,9 @@
             <Goal>
               <option name="commandLine" value="-U clean install -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="verify -Pnative" />
+            </Goal>
           </list>
         </option>
       </Goals>
