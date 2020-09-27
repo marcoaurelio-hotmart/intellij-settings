@@ -58,6 +58,9 @@
             <Goal>
               <option name="commandLine" value="sonar:sonar -Dsonar.url=https://sonarqube.vulcano.rocks/ -Dsonar.login=1d6979c919e208886e677606ed3f7a9b0ba37341" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="package -DskipTests -Pnative" />
+            </Goal>
           </list>
         </option>
       </Goals>
