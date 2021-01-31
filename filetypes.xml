@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
+      <mapping pattern="Dockerfile.mvn" type="Dockerfile" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="maven" type="Native" />
+      <mapping pattern=".transifexrc" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
+      <mapping pattern="stale_outputs_checked" type="PLAIN_TEXT" />
+      <mapping pattern="initdb" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

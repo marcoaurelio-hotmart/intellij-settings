@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.vulcano.rocks" />
+          <token>df9fdf9adf9cdf9ddf9edf9adfcedfc9df9edf9bdf93dfccdf98dfcbdfcedf98dfcedf9adfcbdf9ddf9bdfc9dfcbdfc8df9fdf9adf9cdf9fdfc9df98dfcfdf9fdf9edfc9df9adfccdf92dfccdfcfdfcc</token>
+          <option name="name" value="Sonar Hotmart" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
