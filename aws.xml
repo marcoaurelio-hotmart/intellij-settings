@@ -7,9 +7,9 @@
       <list>
         <ExecutableState>
           <option name="autoResolved" value="true" />
-          <option name="executablePath" value="/home/linuxbrew/.linuxbrew/bin/sam" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
           <option name="id" value="samCli" />
-          <option name="lastKnownFileTime" value="1605547354226" />
+          <option name="lastKnownFileTime" value="1614005678230" />
         </ExecutableState>
       </list>
     </option>
