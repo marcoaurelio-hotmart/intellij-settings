@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
       <mapping pattern="Dockerfile.mvn" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
