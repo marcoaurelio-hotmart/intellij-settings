@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile.jdk10" type="Dockerfile" />
       <mapping pattern="Dockerfile.mvn" type="Dockerfile" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="maven" type="Native" />
