@@ -327,6 +327,11 @@
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Quarkus">
+                    <value>
+                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus Tools" pluginId="com.redhat.devtools.intellij.quarkus" />
+                    </value>
+                  </entry>
                   <entry key="Spring">
                     <value>
                       <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" bundled="true" />
