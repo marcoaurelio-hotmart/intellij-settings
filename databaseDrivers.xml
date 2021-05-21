@@ -28,7 +28,7 @@
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
     </driver>
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="1.2.16.1027" />
